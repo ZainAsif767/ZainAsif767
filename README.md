@@ -57,3 +57,6 @@
 [![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainasif767&show_icons=true&theme=radical)](https://github.com/zainasif767/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainasif767&layout=compact&theme=radical&langs_count=8)](https://github.com/zainasif767/github-readme-stats)
 
 ---
+
+## 🐍 Watch my contributions eaten by a snake !
+![snake gif](https://github.com/zainasif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)
