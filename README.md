@@ -59,4 +59,4 @@
 ---
 
 ## 🐍 Watch my contributions eaten by a snake!
-![snake gif](https://github.com/zainasif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)
