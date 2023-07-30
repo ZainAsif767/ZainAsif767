@@ -20,8 +20,9 @@
 </div>
 
 ---
-
-### 🧑🏻‍💻 About me
+<div align="center">
+ <h2>🧑🏻‍💻 About me  </h2>
+</div>
 <p style="font-size: 8px;">
 ⇢ I am a Computer Science undergrad.
 <br>
@@ -36,6 +37,7 @@
 ⇢ I am a goal-oriented person with good communication skills.
 </p>
 
+<div align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p>
   <a href="https://skillicons.dev">
@@ -50,13 +52,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
+</div>
 
----
-
+<div align="center">
+  
 ##  📊 My Github contributions and history!
-[![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainasif767&show_icons=true&theme=radical)](https://github.com/zainasif767/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainasif767&layout=compact&theme=radical&langs_count=8)](https://github.com/zainasif767/github-readme-stats)
+[![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainasif767&show_icons=true&theme=radical)](https://github.com/zainasif767/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainasif767&layout=compact&theme=radical&langs_count=8)](https://github.com/zainasif767/github-readme-stats) 
+  
+</div>
 
----
+
 
 ## 🐍 Watch my contributions eaten by a snake!
 ![snake gif](https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)
