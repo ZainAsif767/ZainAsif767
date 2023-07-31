@@ -41,7 +41,7 @@
 <h2> 🚀 &nbsp;Some Tools 🛠 I Have Used and Learned</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,elixir,babel,cpp,html,css,js,express,github,linux,mongodb,mysql,netlify,nodejs,postgres,py,r,react,redux,stackoverflow,svg,tailwind,vite,md&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,elixir,babel,cpp,html,css,js,express,github,linux,mongodb,mysql,netlify,nodejs,postgres,py,nextjs,react,redux,stackoverflow,svg,tailwind,vite,md&perline=12" />
   </a>
 </p>
 <p>
