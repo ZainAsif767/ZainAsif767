@@ -16,7 +16,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98703238/227615602-041cdbf4-8375-4ce9-8810-32a27cc01755.jpg" width="600" height="400"/>
+  <img src="https://img.freepik.com/premium-photo/person-learning-program-machine-learning-system-by-example_124507-138971.jpg?w=740" width="600" height="400"/>
 </div>
 
 ---
