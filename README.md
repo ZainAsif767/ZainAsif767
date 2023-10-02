@@ -61,14 +61,15 @@
   
 </div>
 
+[![An image of @zainasif767's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zainasif767)](https://holopin.io/@zainasif767)
 
 
 ## 🐍 Watch my contributions eaten by a snake!
 
-<img alt="snake eating my cont" src="https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg">
+[//]: <img alt="snake eating my cont" src="https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg">
 
 
-[//]: <![snake gif](https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)>
+<![snake gif](https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg)>
 
 
 
