@@ -66,8 +66,8 @@
 
 ## 🐍 Watch my contributions eaten by a snake!
 
-[//]: <img alt="snake eating my cont" src="https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg">
-
+<img alt="snake eating my cont" src="https://github.com/ZainAsif767/ZainAsif767/blob/output/github-contribution-grid-snake.svg">
+[//]:  <- to comment  
 
 
 
