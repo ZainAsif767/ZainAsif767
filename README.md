@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hey%20there!%20I'm%20Zain&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20there!%20I'm%20Zain&fontSize=40&fontAlignY=30" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/zain._.asif/">
