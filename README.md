@@ -16,7 +16,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup-with-proper-lighting-night-colorful-pc-table-chair_939033-3731.jpg?w=740" width="600" height="400"/>
+  <img src="https://github.com/ZainAsif767/ZainAsif767/blob/main/skyhigh_coding.png?raw=true" width="400" height="500"/>
 </div>
 
 ---
