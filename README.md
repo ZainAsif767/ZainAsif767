@@ -21,36 +21,36 @@
 
 ---
 <div align="center">
- <h2>🧑🏻‍💻 About me  </h2>
+  <h2>🧑🏻‍💻 About Me</h2>
 </div>
+
 <p style="font-size: 8px;">
-⇢ I am a Computer Science undergrad.
+⇢ I'm a Computer Science graduate from the University of Karachi (UBIT).  
 <br>
-⇢ I am a constant learner and have been exploring a lot of tools.
+⇢ Currently working as a Software Engineer at IOMechs, building Angular-based applications like ICPlan and SNAD.  
 <br>
-⇢ I provide full-stack services using the Phoenix Framework.
+⇢ Previously improved banking and ERP systems at Synergates using Angular and contributed to React-based projects at Digi Persona.  
 <br>
-⇢ I am looking forward to collaborative web development.
+⇢ I build full-stack applications using Angular, React, Phoenix, and Next.js.  
 <br>
-⇢ I have been working as a freelancer on Fiverr and Upwork.
+⇢ Passionate about clean code, scalable architecture, and performance-optimized development.  
 <br>
-⇢ I am a goal-oriented person with good communication skills.
+⇢ Actively building personal projects and constantly exploring new technologies and tools.  
+<br>
+⇢ Open to collaboration on full-stack or frontend projects.
 </p>
+
 
 <div align="center">
 <h2> 🚀 &nbsp;Some Tools 🛠 I Have Used and Learned</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,elixir,babel,cpp,html,css,js,express,github,linux,mongodb,mysql,netlify,nodejs,postgres,py,nextjs,react,redux,stackoverflow,svg,tailwind,vite,md&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,elixir,nodejs,cpp,py,angular,express,nextjs,react,vite,nestjs,git,github,bitbucket,linux,mongodb,mysql,firebase,postgres,stackoverflow,figma,tailwind,materialui,npm,ubuntu,vscode&perline=14" />
   </a>
 </p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="Phoenix" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" alt="Erlang" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 </div>
 
