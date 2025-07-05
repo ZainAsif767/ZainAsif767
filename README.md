@@ -48,9 +48,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,elixir,nodejs,cpp,py,angular,express,nextjs,react,vite,nestjs,git,github,bitbucket,linux,mongodb,mysql,firebase,postgres,stackoverflow,figma,tailwind,materialui,npm,ubuntu,vscode&perline=14" />
   </a>
 </p>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="Phoenix" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" alt="Erlang" width="40" height="40"/>
+<p>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" alt="Erlang" width="55" height="55"/>
 </p>
 </div>
 
